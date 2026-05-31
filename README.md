@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Janil 👋
 
-<!--
-**Jani-Jain/Jani-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Student at IIT Gandhinagar
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning JavaScript and Web Development
+- Interested in AI and Software Engineering
+- Building projects and improving problem-solving skills
+
+## Connect
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: your@email.com
