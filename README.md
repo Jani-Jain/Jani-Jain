@@ -10,5 +10,5 @@
 
 ## Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: your@email.com
+- LinkedIn: (https://www.linkedin.com/in/janil-jain-49a930346/)
+- Email: jjain2603@gmail.com
